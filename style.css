@@ -1,0 +1,15 @@
+.texto-azul {
+    color: palevioletred;
+}
+
+.texto-morado {
+    color: peru;
+}
+
+.sin-subrayado {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: purple wavy underline;
+}
